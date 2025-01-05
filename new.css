@@ -1,0 +1,98 @@
+html,body{
+  margin: 10px;
+  background-color: black;
+}
+#img1{
+  text-align: center;
+  color: #bd6161;
+  font-size: 30px;
+  text-decoration:underline ;
+}
+.html{
+  text-align: center;
+  border: 10px solid darkorange;
+  margin: 10px 300px 30px;
+  border-radius: 20px;
+  box-shadow: 10px 20px 30px deeppink;
+  border-bottom: none ;
+  border: none;
+}
+#para1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+  'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #b80eda;
+  border: 8px dotted rgb(150, 19, 19);
+  margin: 20px 150px 50px;
+  padding: 20px;
+  border-radius: 20px;
+ border-top: none;
+ border-bottom: none;
+  box-shadow: 10px 20px 40px black;
+
+}
+.h2{
+  text-align: center;
+  color: #7a764d;
+  text-decoration: underline;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#dolor{
+  color: #bd6161;
+  border: 2px solid yellowgreen;
+}
+.div form{
+  text-align: center;
+}
+.id{
+  text-align: center;
+  border: 10px solid darkred;
+  margin: 50px 350px 20px;
+  border-radius: 20px;
+  border-top: none;
+  border-bottom: none ;
+  box-shadow: 10px 20px 40px red;
+
+}
+.the{
+  text-align: center;
+  color: blue;
+  text-decoration:underline rgb(102, 60, 60);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px ;
+}
+#last{
+  color: brown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 9px double rgb(255, 219, 18);
+  margin: 10px 100px 20px;
+  padding: 10px;
+  border-radius: 20px;
+  border-bottom: none;
+  box-shadow: 10px 30px 50px darkred;
+}
+.list{
+  text-align: center;
+  color: #00ffdd;
+  padding: 155px;
+}
+#hcj {
+  color: #a5a5a5;
+  text-decoration: underline;
+}
+.link{
+  text-align: center;
+  color: #f7a9a9;
+}
+#link1{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+  'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #b70dda;
+  border: 7px solid darkolivegreen;
+  margin: 10px 400px 10px;
+  box-shadow: 10px 20px 80px floralwhite;
+  border: none;
+}
+  
+ 
